@@ -13,6 +13,10 @@ pkg install python2
 
 pip install request 
 
+pkg install git
+
+git clone https://github.com/samklo4/report
+
 cd report
 
 python report.pyc
