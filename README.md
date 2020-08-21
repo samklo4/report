@@ -4,9 +4,15 @@ tool  report instgram
 وبعدها كتابة الاوامر التالية 
 
 apt update 
+
 pkg install upgrade
+
 pkg install  python 
+
 pkg install python2
+
 pip install request 
+
 cd report
+
 python report.pyc
